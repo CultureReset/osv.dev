@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of Google's OSV vulnerability database, kept for reference. It is not installed on a Ghost box.
+
 <picture>
     <source srcset="docs/images/osv_logo_dark-full.svg"  media="(prefers-color-scheme: dark)">
     <!-- markdown-link-check-disable-next-line -->
