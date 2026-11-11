@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/osv.dev](https://github.com/google/osv.dev).** Open source vulnerability DB and triage service.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google/osv.dev).
+>
+> The upstream README follows unchanged.
+
+---
+
 <picture>
     <source srcset="docs/images/osv_logo_dark-full.svg"  media="(prefers-color-scheme: dark)">
     <!-- markdown-link-check-disable-next-line -->
